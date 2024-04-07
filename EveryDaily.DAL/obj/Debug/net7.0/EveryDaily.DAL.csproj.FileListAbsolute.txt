@@ -1,0 +1,17 @@
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.DAL.deps.json
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.DAL.pdb
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.Domain.pdb
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.AssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.csproj.CopyComplete
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\refint\EveryDaily.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\EveryDaily.DAL.pdb
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\obj\Debug\net7.0\ref\EveryDaily.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.Application.dll
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.DAL\bin\Debug\net7.0\EveryDaily.Application.pdb

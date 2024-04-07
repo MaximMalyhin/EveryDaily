@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.AssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EveryDaily.Api\obj\Debug\net6.0\EveryDaily.Api.MvcApplicationPartsAssemblyInfo.cache
