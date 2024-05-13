@@ -1,0 +1,17 @@
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\bin\Debug\net7.0\EDMS.Application.deps.json
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\bin\Debug\net7.0\EDMS.Application.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\bin\Debug\net7.0\EDMS.Application.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\bin\Debug\net7.0\EDMS.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\bin\Debug\net7.0\EDMS.Domain.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EveryDaily.Application.Resources.ErrorMessage.resources
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.AssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.csproj.CopyComplete
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\refint\EDMS.Application.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\EDMS.Application.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Application\obj\Debug\net7.0\ref\EDMS.Application.dll

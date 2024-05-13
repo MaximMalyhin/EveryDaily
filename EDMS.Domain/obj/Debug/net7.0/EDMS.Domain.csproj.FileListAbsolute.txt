@@ -1,0 +1,11 @@
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\bin\Debug\net7.0\EDMS.Domain.deps.json
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\bin\Debug\net7.0\EDMS.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\bin\Debug\net7.0\EDMS.Domain.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.AssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\refint\EDMS.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\EDMS.Domain.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.Domain\obj\Debug\net7.0\ref\EDMS.Domain.dll

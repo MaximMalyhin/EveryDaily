@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FG08E7eZOF4EhgFo5MywrxAWhZNUwNCP0eviKW8Ltl0=",
+  "Source": "EDMS.Api",
+  "BasePath": "_content/EDMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

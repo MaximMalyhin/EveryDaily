@@ -1,0 +1,17 @@
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.DAL.deps.json
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.DAL.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.Application.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.Domain.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.Application.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\bin\Debug\net7.0\EDMS.Domain.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.AssemblyInfo.cs
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.csproj.CopyComplete
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\refint\EDMS.DAL.dll
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\EDMS.DAL.pdb
+C:\Users\maksi\source\repos\EveryDaily\EDMS.DAL\obj\Debug\net7.0\ref\EDMS.DAL.dll
